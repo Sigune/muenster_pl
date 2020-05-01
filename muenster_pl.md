@@ -40,4 +40,4 @@ In der Stadtbücherei Münster gibt es bereits viele Skripte, die den Arbeitsall
 * BIBLIOTHECAplus: Bibliothekssystem BIBLIOTHECAplus von OCLC, wird vor allem von Öffentlichen Bibliotheken genutzt: https://www.oclc.org/de/bibliotheca.html (Abruf: 01.05.2020)
 * Böhme 2019: Interviewgespräche mit Mechthild Böhme, Lektorin der Stadtbücherei Münster, sowie mit einer Kollegin und einem Kollegen, die anonym bleiben wollen, im Juni 2019 für die Hausarbeit "Automatisierung in der Formalerschließung" (Aufgabe MALIS 19.1 MD1.2, vorgelegt am 26.08.2019 bei Petra Maier von Gruppe D: Michael Dlugosch, Alexandra Fante, Sigune Kussek und Maria Mielke)
 * ekz: ekz bibliothkesservice GmbH, Reutlingen: https://www.ekz.de/ekz-bibliothekseinrichtung-ausstattung-service-und-medien/ (Abruf: 28.04.2020)
-* Rosell: Kurzinterview per Email mit Dominik Rosell, Teamleiter der IT-Abteilung, Stadtbücherei, am 23.04.2020.
+* Rosell 2020: Kurzinterview per Email mit Dominik Rosell, Teamleiter der IT-Abteilung, Stadtbücherei, am 23.04.2020.
