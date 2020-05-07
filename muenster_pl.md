@@ -4,7 +4,7 @@
 
 Master in Library and Information Sciences / Fakultät für Informations- und Kommunikationswissenschaften Technische Hochschule Köln
 
-Vorgelegt von Sigune Kussek am 10.05.2020 bei Prof. Dr. Konrad Förstner
+Vorgelegt von Sigune Kussek am 07.05.2020 bei Prof. Dr. Konrad Förstner
 
 ## Kurze Einführung
 Datenintensive und datenfokussierte Prozesse bestimmen nicht nur den Arbeitsalltag in wissenschaftlichen, sondern auch in öffentlichen Bibliotheken. In diesem Repositorium wird beispielhaft auf datenintensive und datenfokussierte Arbeitsprozesse der Stadtbücherei Münster eingegangen. Zunächst werden datenbasierte Aktivitäten zusammengetragen, die entweder ausschließlich in der Hauptstelle der Stadtbücherei durchgeführt werden oder für alle Mitarbeiterinnen und Mitarbeiter unsichtbar im Hintergrund laufen. Anschließend werden drei Prozessbeispiele aus dem Arbeitsalltag der Stadtteilbücherei Coerde ausführlicher beschrieben. Die Autorin, die in dieser Zweigstelle als Mitarbeiterin tätig ist, stellt dar, wo sie Potenziale sieht, die drei Prozesse mit Hilfe einer Software einfacher, transparenter und/oder nachhaltiger zu gestalten. Das Repositorium schließt mit einem kleinen Fazit der daraus gewonnenen Erkentnisse.
